@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub Profile Page! ![](https://komarev.com/ghpvc/?username=seanliu96&&color=blueviolet)
 
 - 😄 I’m a PhD student at Hong Kong University of Science and Technology (HKUST), working on natural language understanding and graph reasoning.
 - ⚡ Website: [https://www.cse.ust.hk/~xliucr](https://www.cse.ust.hk/~xliucr)
+- 📫 Linkedin: [Xin Liu](https://www.linkedin.com/in/xin-liu-179830143)
 
-[![Sean's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=seanliu96&count_private=true&include_orgs=true&show_icons=true&theme=nightowl&locale=en)](https://github.com/seanliu96/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanliu96&hide=jupyter%20notebook,tex&langs_count=10&layout=compact&count_private=true&include_orgs=true&show_icons=true&theme=nightowl&locale=en)](https://github.com/seanliu96/github-readme-stats)
+![Sean's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=seanliu96&count_private=true&include_orgs=true&show_icons=true&theme=buefy&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanliu96&hide=jupyter%20notebook,tex&langs_count=10&layout=compact&count_private=true&include_orgs=true&show_icons=true&theme=buefy&locale=en)
 
 <!--
 **seanliu96/seanliu96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
