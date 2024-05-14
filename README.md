@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome to my GitHub Profile Page! ![](https://komarev.com/ghpvc/?username=seanliu96&&color=blueviolet)
 
-- 😄 I’m a PhD student at Hong Kong University of Science and Technology (HKUST), working on natural language understanding and graph reasoning.
-- ⚡ Website: [https://www.cse.ust.hk/~xliucr](https://www.cse.ust.hk/~xliucr)
-- 📫 Linkedin: [Xin Liu](https://www.linkedin.com/in/xin-liu-179830143)
+- 😄 I am an Applied Scientist at Amazon Search/A9 working on building large language models for shopping. My goal is to build intelligent systems that can understand and reason over user behaviors and natural languages with the help of structural knowledge and unstructural commonsense.
+- ⚡ [Website](https://seanliu96.github.io/)
+- 📫 [Linkedin](https://www.linkedin.com/in/xin-liu-179830143)
 
 ![Sean's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=seanliu96&count_private=true&include_orgs=true&show_icons=true&theme=buefy&locale=en)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanliu96&hide=jupyter%20notebook,tex&langs_count=10&layout=compact&count_private=true&include_orgs=true&show_icons=true&theme=buefy&locale=en)
