@@ -1,23 +1,5 @@
-### Hi there 👋 Welcome to my GitHub Profile Page! ![](https://komarev.com/ghpvc/?username=seanliu96&&color=blueviolet)
+### Hi there 👋 Welcome to my GitHub Profile Page! ![](https://komarev.com/ghpvc/?username=seanliu96&color=blueviolet)
 
-- 😄 I am an Applied Scientist at Amazon Search/A9 working on building large language models for shopping. My goal is to build intelligent systems that can understand and reason over user behaviors and natural languages with the help of structural knowledge and unstructural commonsense.
+- 😄 I'm a Member of Technical Staff at [Fireworks AI](https://fireworks.ai/), exploring the potential of different foundation models. My goal is to build intelligent systems that understand user intent and reason efficiently over complex problems with the help of internal knowledge and environment feedback.
 - ⚡ [Website](https://seanliu96.github.io/)
-- 📫 [Linkedin](https://www.linkedin.com/in/xin-liu-179830143)
-
-![Sean's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=seanliu96&count_private=true&include_orgs=true&show_icons=true&theme=buefy&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanliu96&hide=jupyter%20notebook,tex&langs_count=10&layout=compact&count_private=true&include_orgs=true&show_icons=true&theme=buefy&locale=en)
-
-<!--
-**seanliu96/seanliu96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 [LinkedIn](https://www.linkedin.com/in/xin-liu-179830143)
